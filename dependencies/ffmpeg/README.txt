@@ -1,15 +1,15 @@
-This is a FFmpeg Win64 static build by Kyle Schwarz.
+This is a FFmpeg Win32 static build by Kyle Schwarz.
 
 Zeranoe's FFmpeg Builds Home Page: <http://ffmpeg.zeranoe.com/builds/>
 
-This build was compiled on: Apr  5 2014, at: 22:09:19
+This build was compiled on: Apr 13 2014, at: 22:01:33
 
-FFmpeg version: 2014-04-06 git-59c1023
-  libavutil      52. 74.100 / 52. 74.100
-  libavcodec     55. 57.101 / 55. 57.101
-  libavformat    55. 36.101 / 55. 36.101
-  libavdevice    55. 11.100 / 55. 11.100
-  libavfilter     4.  3.100 /  4.  3.100
+FFmpeg version: 2014-04-14 git-5e379cd
+  libavutil      52. 76.100 / 52. 76.100
+  libavcodec     55. 58.103 / 55. 58.103
+  libavformat    55. 37.100 / 55. 37.100
+  libavdevice    55. 13.100 / 55. 13.100
+  libavfilter     4.  4.100 /  4.  4.100
   libswscale      2.  6.100 /  2.  6.100
   libswresample   0. 18.100 /  0. 18.100
   libpostproc    52.  3.100 / 52.  3.100
@@ -58,7 +58,7 @@ This build was compiled with the following external libraries:
   bzip2 1.0.6 <http://bzip.org/>
   Fontconfig 2.11.1 <http://freedesktop.org/wiki/Software/fontconfig>
   Frei0r 20130909-git-10d8360 <http://frei0r.dyne.org/>
-  GnuTLS 3.2.12.1 <http://gnutls.org/>
+  GnuTLS 3.2.13 <http://gnutls.org/>
   libiconv 1.14 <http://gnu.org/software/libiconv/>
   libass 0.10.2 <http://code.google.com/p/libass/>
   libbluray 0.5.0 <http://videolan.org/developers/libbluray.html>
@@ -84,7 +84,7 @@ This build was compiled with the following external libraries:
   vpx 1.3.0 <http://webmproject.org/>
   WavPack 4.70.0 <http://wavpack.com/>
   x264 20140313-git-d6b4e63 <http://videolan.org/developers/x264.html>
-  x265 20140403-hg-8273932b <http://x265.org/>
+  x265 20140410-hg-83ccf2f1 <http://x265.org/>
   XAVS svn-r55 <http://xavs.sourceforge.net/>
   Xvid 1.3.2 <http://xvid.org/>
   zlib 1.2.8 <http://zlib.net/>
